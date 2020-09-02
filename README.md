@@ -2,6 +2,6 @@
 A simple page live2d Waifu
 
 ### Upcoming
--idk
+- idk
 ### Whats Next ?
 - idk
